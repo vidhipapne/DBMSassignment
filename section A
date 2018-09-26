@@ -37,7 +37,7 @@ DML COMMANDS
   # select name ,id from student 
     where name='suresh';
            
-    -It will show you the disctinct values of colleges
+    -It will show you the distinct values of colleges
   # select distinct college from student ;     
 
 3. UPDATE -
